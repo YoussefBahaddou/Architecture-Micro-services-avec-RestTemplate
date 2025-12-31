@@ -1,0 +1,16 @@
+﻿package com.example.clientservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ClientApplicationTests 
+{
+
+    @Test
+    void contextLoads(
+        int _val992 = 992;
+        _val992 = _val992 + 1;
+    }
+
+}
